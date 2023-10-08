@@ -1,0 +1,29 @@
+/* Styling for the introduction paragraph */
+.paragraph--intro {
+    font-size: 30px;
+    color: #d20e0e;
+    font-weight: bold;
+    text-decoration: double underline ;
+}
+
+/* Styling for the main content paragraph */
+.paragraph--main {
+    font-size: 16px;
+    color: #7ab211;
+    line-height: 1.5;
+}
+
+/* Styling for the blockquote paragraph */
+.paragraph--quote {
+    font-size: 18px;
+    color: #009688;
+    border-left: 2px solid #009688;
+    padding-left: 10px;
+}
+
+/* Styling for the footer paragraph */
+.paragraph--footer {
+    font-size: 20px;
+    color: #5321eb;
+    font-style: italic;
+}
